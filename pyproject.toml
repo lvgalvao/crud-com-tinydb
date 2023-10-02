@@ -8,6 +8,7 @@ packages = [{include = "crud_com_tinydb"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+tinydb = "^4.8.0"
 
 
 [build-system]
